@@ -1,0 +1,3 @@
+En el proyecto, se ha implementado LitElement, una librería de desarrollo de web components que permite la creación de componentes personalizados reutilizables en aplicaciones web. LitElement simplifica la construcción de interfaces de usuario (UI) al proporcionar una abstracción eficiente sobre la manipulación del DOM y la gestión de estados.
+
+Además, se ha incorporado Vaadin Router, una biblioteca de enrutamiento diseñada específicamente para aplicaciones de una sola página (Single Page Applications - SPAs). Vaadin Router permite gestionar las rutas y las vistas de la aplicación de manera eficiente, lo que facilita la navegación entre diferentes componentes y páginas sin necesidad de recargar la página completa.

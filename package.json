@@ -1,0 +1,20 @@
+{
+  "name": "litelementlogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vaadin/router": "^1.7.5",
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.2"
+  }
+}
